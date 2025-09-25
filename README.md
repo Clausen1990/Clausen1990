@@ -5,9 +5,9 @@ Hi 👋 I'm Claudia Beltran
 
 Data Engineer with more than 10 years of experience in Supply Chain. Looking for opportunities to learn and help build and maintain strong infrastructures that produce high-quality and consistent data.
 
-*   🌍  I'm based in St Albans, UK
+*   🌍  I'm based in UK
 *   ✉️  You can contact me at [clau.p.beltran@gmail.com](mailto:clau.p.beltran@gmail.com)
-*   🧠  I'm learning more about Data Warehousing, AirFlow and dbt
+*   🧠  I'm learning more about Data Warehousing, AirFlow and dbt, 
 
 ### Skills
 
